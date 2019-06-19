@@ -2,7 +2,7 @@
 
 In this project, we'll finish the implementation of a web server in C.
 
-What you need to write:
+What you need to write: Initial PR
 
 * HTTP request parser
 * HTTP response builder
